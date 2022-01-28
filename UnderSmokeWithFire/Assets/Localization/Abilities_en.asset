@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Abilities_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6a3f9b928937d7e4e89ae369e534c026, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 3895615238144
+    m_Localized: Name1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3999457816576
+    m_Localized: Description1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4176595857408
+    m_Localized: Description2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4274264420352
+    m_Localized: Description3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4083310342144
+    m_Localized: Name2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4239082598400
+    m_Localized: Name3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13296199495004160
+    m_Localized: Fire Bolt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13296257061826560
+    m_Localized: A small ball of fire, leaves trail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13623415525289984
+    m_Localized: Smoke Trap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13623446571528192
+    m_Localized: On activate deals small amount of damage and covers area around
+      in smoke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13632097239642112
+    m_Localized: Living Torch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13632132165611520
+    m_Localized: Makes enemy's armor explode dealing damage to its owner and its
+      surroundings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19162419767226368
+    m_Localized: Finger Of Death
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19162452122087424
+    m_Localized: Overpowered ability to kill someone instantly but low range and
+      high cooldown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21049093614940160
+    m_Localized: Fire Trap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21049118097092608
+    m_Localized: Set fire trap that explodes when someone steps on it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21059245097299968
+    m_Localized: Searing Shots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21059295277953024
+    m_Localized: Shoot 3 projectiles that can avoid small cover
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21063556342689792
+    m_Localized: Ring of Fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21063585652486144
+    m_Localized: Traps target inside fire ring and deals damage to units around
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21070623866564608
+    m_Localized: Smoke Screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21070651565748224
+    m_Localized: 'Fires projectile that deals small damage but leaves smoke '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21077606241873920
+    m_Localized: Fire Pillars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21077635392286720
+    m_Localized: Evokes pillars of fire after some time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21083906354917376
+    m_Localized: Dust Clouds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21083933785665536
+    m_Localized: Evokes several dust clouds that deals small damage and blocks view
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

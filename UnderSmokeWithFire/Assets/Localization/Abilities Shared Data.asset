@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Abilities Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Abilities
+  m_TableCollectionNameGuidString: 6a3f9b928937d7e4e89ae369e534c026
+  m_Entries:
+  - m_Id: 3895615238144
+    m_Key: Test_ability1_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3999457816576
+    m_Key: Test_ability1_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4083310342144
+    m_Key: Test_ability2_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4176595857408
+    m_Key: Test_ability2_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4239082598400
+    m_Key: Test_ability3_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4274264420352
+    m_Key: Test_ability3_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13296199495004160
+    m_Key: FireBolt_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13296257061826560
+    m_Key: FireBolt_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13623415525289984
+    m_Key: SmokeTrap_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13623446571528192
+    m_Key: SmokeTrap_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13632097239642112
+    m_Key: LivingTorch_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13632132165611520
+    m_Key: LivingTorch_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19162419767226368
+    m_Key: FingerOfDeath_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19162452122087424
+    m_Key: FingerOfDeath_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21049093614940160
+    m_Key: FireTrap_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21049118097092608
+    m_Key: FireTrap_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21059245097299968
+    m_Key: SearingShots_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21059295277953024
+    m_Key: SearingShots_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21063556342689792
+    m_Key: RingOfFire_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21063585652486144
+    m_Key: RingOfFire_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21070623866564608
+    m_Key: SmokeScreen_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21070651565748224
+    m_Key: SmokeScreen_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21077606241873920
+    m_Key: FirePillars_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21077635392286720
+    m_Key: FirePillars_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21083906354917376
+    m_Key: DustClouds_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21083933785665536
+    m_Key: DustClouds_description
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1637841114004

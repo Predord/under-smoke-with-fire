@@ -1,0 +1,32 @@
+{
+  "Items": 
+  [
+    {
+      "id": 0,
+      "title": "OnFire",
+      "turnsAmount": 5,
+      "damageType": 2,
+      "damageOverTime": 5,
+      "sightRaw": -1,
+      "sightModifier": 0
+    },
+    {
+      "id": 1,
+      "title": "Blind",
+      "turnsAmount": 1,
+      "damageType": 0,
+      "damageOverTime": 0,
+      "sightRaw": 1,
+      "sightModifier": 0
+    },
+    {
+      "id": 2,
+      "title": "Bleeding",
+      "turnsAmount": 8,
+      "damageType": 3,
+      "damageOverTime": 4,
+      "sightRaw": 0,
+      "sightModifier": 0
+    }
+  ]
+}

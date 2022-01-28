@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: PlayerStats Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: PlayerStats
+  m_TableCollectionNameGuidString: 53f6cde4b91402940b67f85b43ce4a50
+  m_Entries:
+  - m_Id: 524355317760
+    m_Key: Intelligence
+    m_Metadata:
+      m_Items: []
+  - m_Id: 534186766336
+    m_Key: Memory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538926329856
+    m_Key: Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542038503424
+    m_Key: Wits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 545964371968
+    m_Key: Constitution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 636380983296
+    m_Key: Knockdown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 638947897344
+    m_Key: Stun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 641170878464
+    m_Key: Fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 642676633600
+    m_Key: Bleed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 757025943552
+    m_Key: Damage_Multiplier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 758733025280
+    m_Key: Crit_Damage_Multiplier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 760746291200
+    m_Key: Crit_Chance_Multiplier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 762688253952
+    m_Key: Max_Ability_Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 763992682496
+    m_Key: Max_Ability_Slots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 764772823040
+    m_Key: Health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 765552963584
+    m_Key: Sight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 766261800960
+    m_Key: Cooldown_Multiplier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 768048574464
+    m_Key: CastTime_Multiplier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007161651200
+    m_Key: Dodge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14801199924719616
+    m_Key: Fatigue
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1639436581203

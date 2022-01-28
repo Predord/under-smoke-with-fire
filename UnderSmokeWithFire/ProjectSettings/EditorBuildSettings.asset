@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e3e790e2c9c9f1845bea76a7c0db7130
+  - enabled: 1
+    path: Assets/Scenes/UI.unity
+    guid: 42d7efb92112d3248aafaac41e2e944c
+  - enabled: 1
+    path: Assets/Scenes/QuadMap.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/TravelMap.unity
+    guid: 7cdeecbe994f40e47b2581878be74ea9
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: e2ad5b8844e4cf742918731f7ccae23f,
+      type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 29f83b04b0b39c34cbe18be5099cc863,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 09b34cc4a119bc241a7bf0b9732e66c5,
+      type: 2}

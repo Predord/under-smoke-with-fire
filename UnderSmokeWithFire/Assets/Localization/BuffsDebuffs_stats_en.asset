@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: BuffsDebuffs_stats_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: dc3c19eb0b976da40bc6a9f51f57a8da, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 500896575488
+    m_Localized: MaxAbilityLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 629460381696
+    m_Localized: Dodge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 661374840832
+    m_Localized: Sight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699022913536
+    m_Localized: MaxHealth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741372801024
+    m_Localized: Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771672453120
+    m_Localized: Cooldown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 800155971584
+    m_Localized: CastTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 903663005696
+    m_Localized: CritDamage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 964312641536
+    m_Localized: Intelligence
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1195905331200
+    m_Localized: Memory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1220995657728
+    m_Localized: Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1251035262976
+    m_Localized: Wits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1278621200384
+    m_Localized: Constitution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1371625697280
+    m_Localized: Knockdown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1425333760000
+    m_Localized: Stun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1461824204800
+    m_Localized: Fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1491888975872
+    m_Localized: Bleed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2388547284992
+    m_Localized: CritChance
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: BuffsDebuffs Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: BuffsDebuffs
+  m_TableCollectionNameGuidString: ed3a925fad1b88940b3d1f3705278d32
+  m_Entries:
+  - m_Id: 101024215040
+    m_Key: Test_debuff1_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 239650156544
+    m_Key: Test_debuff1_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7739292650778624
+    m_Key: WideAwake_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7739434598608896
+    m_Key: WideAwake_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7739500801503232
+    m_Key: Drowsy_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7739544669728768
+    m_Key: Drowsy_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7739571945287680
+    m_Key: Tired_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7739615603798016
+    m_Key: Tired_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7739679554351104
+    m_Key: VeryTired_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7739711410089984
+    m_Key: VeryTired_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7739758872834048
+    m_Key: Exhausted_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7739794310508544
+    m_Key: Exhausted_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14765870236774400
+    m_Key: ScoutPreparation_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14765959399288832
+    m_Key: ScoutPreparation_description
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1639318704385

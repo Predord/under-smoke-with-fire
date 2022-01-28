@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: BuffsDebuffsActionMap_stats
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: db319b0d2fd70bb41846f9f6f025919c, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 0e1f426207dc19c42809cdba485c5b58, type: 2}
+  - {fileID: 11400000, guid: c0b0cd012c4812a4898813ab5e633779, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 1

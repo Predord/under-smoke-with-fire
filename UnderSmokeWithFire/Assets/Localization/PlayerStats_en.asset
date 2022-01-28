@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: PlayerStats_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 53f6cde4b91402940b67f85b43ce4a50, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 524355317760
+    m_Localized: Intelligence
+    m_Metadata:
+      m_Items: []
+  - m_Id: 534186766336
+    m_Localized: Memory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538926329856
+    m_Localized: Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542038503424
+    m_Localized: Wits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 545964371968
+    m_Localized: Constitution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 636380983296
+    m_Localized: Knockdown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 638947897344
+    m_Localized: Stun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 641170878464
+    m_Localized: Fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 642676633600
+    m_Localized: Bleed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 757025943552
+    m_Localized: Damage Multiplier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 758733025280
+    m_Localized: Crit Damage Multiplier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 760746291200
+    m_Localized: Crit Chance Multiplier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 762688253952
+    m_Localized: Max Ability Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 763992682496
+    m_Localized: Max Ability Slots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 764772823040
+    m_Localized: Health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 765552963584
+    m_Localized: Sight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 766261800960
+    m_Localized: Cooldown Multiplier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 768048574464
+    m_Localized: Cast Time Multiplier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007161651200
+    m_Localized: Dodge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14801199924719616
+    m_Localized: Fatigue
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

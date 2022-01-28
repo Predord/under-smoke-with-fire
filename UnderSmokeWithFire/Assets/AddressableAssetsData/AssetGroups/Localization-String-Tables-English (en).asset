@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-English (en)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-English (en)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5aa35389aecca254a9e1537963cea86f
+  m_SerializeEntries:
+  - m_GUID: a4cb2df9ccae1714aa7d00f36d5c51a4
+    m_Address: Objectives_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: ba9d4bc2cbcf358439fec9331d2b8b4c
+    m_Address: Abilities_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: 582c7df300509db4782e47385621fed5
+    m_Address: Abilities_stats_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: 93cb732f55bd609468c8c592830789b8
+    m_Address: TravelMap_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: 4a6b81bf80e242f4b847a673b7da3f60
+    m_Address: BuffsDebuffs_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: be0cd8a4fe1d80b43b5f059d6d079e27
+    m_Address: BuffsDebuffs_stats_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: da1b334f733935c42b9e82b3f3782fa2
+    m_Address: PlayerStats_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: 1210973fc4a1f704c81bd08a5b4aed88
+    m_Address: BuffsDebuffsActionMap_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: 0e1f426207dc19c42809cdba485c5b58
+    m_Address: BuffsDebuffsActionMap_stats_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: f29eca4aa7528bb489d2fded4ff95f41, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5d56502c314ef8d42a266f16ba6c5d4c, type: 2}
+    - {fileID: 11400000, guid: 9863e4064531fc64e92f671cbfa36396, type: 2}
